@@ -27,3 +27,8 @@ students.sort()
 print(students)
 
 print(len(students))
+
+
+names = (1,5,2,4)
+temp =sorted(names)
+print(temp)

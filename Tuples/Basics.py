@@ -28,7 +28,11 @@
 
 # ! speed 
 
-import timeit
-print("Lists: ", timeit.timeit(stmt="['Anamika']",number=100000000))
-print("Tuple: ", timeit.timeit(stmt="('Anamika',)",number=100000000))
+# import timeit
+# print("Lists: ", timeit.timeit(stmt="['Anamika']",number=100000000))
+# print("Tuple: ", timeit.timeit(stmt="('Anamika',)",number=100000000))
 
+
+
+students = (1,2,4,5)
+students.sort()
