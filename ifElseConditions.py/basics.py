@@ -29,7 +29,13 @@ students = [1,2,3,4,5]
 # else:
 #     print("You need to work hard")    
 
-a= 5
-b= 454
+# a= 5
+# b= 454
 
-if a<b : print("a is less")
+# if a<b : print("a is less")
+
+# age= 45
+# if age<=45:
+#     pass
+
+age = 20
